@@ -7,9 +7,9 @@
     var self = module;
 
    module.alllogos = [
-        {id: 0, name: '1903', img: 'logo2.jpg'},
-        {id: 1, name: '1945', img: 'logo4.jpg'},
-        {id: 2, name: '1978', img: 'logo5.jpg'},
+        {id: 0, name: '1903', img: 'logo2.png'},
+        {id: 1, name: '1945', img: 'logo4.png'},
+        {id: 2, name: '1978', img: 'logo5.png'},
         
         
     ];

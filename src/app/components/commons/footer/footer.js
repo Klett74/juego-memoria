@@ -3,7 +3,7 @@
   angular.module('app').component('footerGame', {
     templateUrl:  'app/components/commons/footer/footer-game-template.html',
     controller: ['$state', footerGame],
-    controllerAs: 'footerGame'
+    controllerAs: 'footerGame' 
   });
 
   function footerGame($state) {
@@ -14,4 +14,6 @@
     };
   }
 
+
+  
 })(angular);
