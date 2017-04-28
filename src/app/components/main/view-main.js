@@ -12,7 +12,7 @@
    vm.goToGame = function() {
       $state.go('game');
 
-      console.log("hol");
+ 
     };
 
  

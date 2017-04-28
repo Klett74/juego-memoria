@@ -1,11 +1,13 @@
 .main-container {
-    max-width: 800px;
+   
     padding: 1em;
  
 }
 
+
+
 .view-main {
-    
+    height: 1000px;
     padding: 1em;
     background-color:#8080ff;
 }
@@ -30,14 +32,14 @@
 }
 
 .list-players {
-  height:300px;
+  height:800px;
   padding:0.2em;
   border: 1px solid #ff9933;
 }
 
 .list-players-card {
-    width: 125px;
-    height: 125px;
+    width: 259px;
+    height: 400px;
     border: 1px solid #ccc;
     display: inline-block;
     margin: 0.5em;
@@ -47,10 +49,7 @@
     cursor: pointer;
 }
 
-.list-players-card-img {
-    width:100px;
-    height: 100px;
-}
+
 
 .list-players-card-title {
     font-weight: bold;
@@ -73,4 +72,4 @@
     
 }
 
-}
+
