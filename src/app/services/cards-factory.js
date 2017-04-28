@@ -7,14 +7,17 @@
     var self = module;
 
    module.allplayers = [
-        {id: 0, name: 'Oblak', img:'oblak.jpg'},
-        {id: 1, name: 'Gabi', img:'gabi.jpg'},
-        {id: 2, name: 'Carrasco', img: 'carrasco.jpg'},
+        {id: 0, name: 'Torres', img: 'torres.jpg'},
+        {id: 1, name: 'Godin', img: 'godin.jpg'},
+        {id: 2, name: 'Saul', img: 'saul.jpg'},
         {id: 3, name: 'Griezzman', img: 'griezzman.jpg'},
-        {id: 4, name: 'Torres', img: 'torres.jpg'},
-        {id: 5, name: 'Godin', img: 'godin.jpg'},
-        {id: 6, name: 'Saul', img: 'saul.jpg'},
-        {id: 7, name: 'Gameiro', img: 'gameiro.jpg'},
+        {id: 4, name: 'Gabi', img: 'gabi.jpg'},
+        {id: 5, name: 'Torres', img: 'torres.jpg'},
+        {id: 6, name: 'Godin', img: 'godin.jpg'},
+        {id: 7, name: 'Saul', img: 'saul.jpg'},
+        {id: 8, name: 'Griezzman', img: 'griezzman.jpg'},
+        {id: 9, name: 'Gabi', img: 'gabi.jpg'}
+        
     ];
 
     module.getAllPlayers = function() {

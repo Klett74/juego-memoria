@@ -5,7 +5,7 @@
     controller: playersCard,
     controllerAs: 'playersCard',
     bindings: {
-      itemAnimal: '<'
+      itemPlayer: '<'
     }
   });
 

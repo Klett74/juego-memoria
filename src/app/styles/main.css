@@ -1,7 +1,8 @@
 .main-container {
     max-width: 800px;
-    border: 1px solid green;
+    
     padding: 1em;
+    background-color: #0080c0;
 }
 
 .view-main {
@@ -10,10 +11,12 @@
 }
 
 .main-header {
+    max-height: 100px;
     cursor: pointer;
-    font-size:24px;
+    font-size:18px;
+    color:#ff0000;
     text-align: center;
-    border: 1px solid red;
+  
   
    
 }
@@ -57,4 +60,10 @@
 
 .button{
     cursor:pointer;
+}
+
+.logo{
+    width: 35px;
+    float:left;
+    margin-left: 10px;
 }
