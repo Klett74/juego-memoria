@@ -12,11 +12,13 @@
         {id: 2, name: 'Saul', img: 'saul.jpg'},
         {id: 3, name: 'Griezzman', img: 'griezzman.jpg'},
         {id: 4, name: 'Gabi', img: 'gabi.jpg'},
-        {id: 5, name: 'Torres', img: 'torres.jpg'},
-        {id: 6, name: 'Godin', img: 'godin.jpg'},
-        {id: 7, name: 'Saul', img: 'saul.jpg'},
-        {id: 8, name: 'Griezzman', img: 'griezzman.jpg'},
-        {id: 9, name: 'Gabi', img: 'gabi.jpg'}
+        {id: 5, name: 'Oblak', img: 'obka.jpg'},
+        {id: 6, name: 'Torres', img: 'torres.jpg'},
+        {id: 7, name: 'Godin', img: 'godin.jpg'},
+        {id: 8, name: 'Saul', img: 'saul.jpg'},
+        {id: 9, name: 'Griezzman', img: 'griezzman.jpg'},
+        {id: 10, name: 'Gabi', img: 'gabi.jpg'}
+        {id: 12, name: 'Oblak', img: 'oblak.jpg'},
         
     ];
 
