@@ -1,11 +1,12 @@
 .main-container {
    padding: 1em;
+   background-color: rgb(68.7%, 91.3%, 91.7%)
  }
 
 .main-header {
     height: 70px;
     cursor: pointer;
-    background:linear-gradient( rgb(86.6%, 6.7%, 6.7%), rgb(93.3%, 84.5%, 84.5%));
+    background: rgb(86.6%, 6.7%, 6.7%;
  }
 
 .header-title{
