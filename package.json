@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Klett74/juego-memoria/issues"
   },
-  "homepage": "https://github.com/Klett74/juego-memoria#readme"
+  "homepage": "https://github.com/Klett74/juego-memoria#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }

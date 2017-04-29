@@ -1,45 +1,81 @@
 .main-container {
-   
-    padding: 1em;
- 
-}
-
-
-
-.view-main {
-    height: 1000px;
-    padding: 1em;
-    background-color:#8080ff;
-}
+   padding: 1em;
+ }
 
 .main-header {
-    max-height: 100px;
+    height: 70px;
     cursor: pointer;
-    font-size:18px;
-    color:#ff0000;
+    background:linear-gradient( rgb(86.6%, 6.7%, 6.7%), rgb(93.3%, 84.5%, 84.5%));
+ }
+
+.header-title{
+    font-size:36px;
+    color:#ffffff;
+    font-family: stencil;
     text-align: center;
-  
-  
+    padding: 12px;
+ }
+
+ .main-footer {
+    max-height: 100px;
+    text-align: center;
+    background:linear-gradient( rgb(35.1%, 33.7%, 33.7%),white);
+}
+
+.footer-name{
+    font-size:20px;
+    color:#ffffff;
+    font-family: stencil;
+    text-align: center;
+    padding: 5px;
    
 }
 
-.main-footer {
-    text-align: center;
-    margin: 0.5em;
-    padding:0.2em;
+.footer-history{
     cursor: pointer;
-    max-width: 800px;
+    font-size:15x;
+    color:#ffffff;
+    font-family: stencil;
+    text-align: center;
+    margin-bottom:  15px;
+   
+}
+.logo-footer{
+    float: right;
+    width: 50px;
+    margin-right: 10px;
 }
 
+.logo-headerL{
+    width: 50px;
+    float:left;
+    margin-left: 10px;
+}
+.logo-headerR{
+    width: 50px;
+    float:right;
+    margin-right: 10px;
+}
+
+.view-main {
+    height:800px;
+    padding: 1em;
+    border: 1pk solid rgb(86.6%, 6.7%, 6.7%);
+}
+
+
+
+
+
 .list-players {
-  height:800px;
+  height:700px;
   padding:0.2em;
-  border: 1px solid #ff9933;
+  border: 1px solid #ff0000;
 }
 
 .list-players-card {
-    width: 259px;
-    height: 400px;
+    width: 207px;
+    height: 320px;
     border: 1px solid #ccc;
     display: inline-block;
     margin: 0.5em;
@@ -61,12 +97,7 @@
     cursor:pointer;
 }
 
-.logo{
-    
-    width: 35px;
-    float:left;
-    margin-left: 10px;
-}
+
 .logos2{
     width: 35px;
     
