@@ -1,12 +1,12 @@
 .main-container {
    padding: 1em;
-   background-color: rgb(68.7%, 91.3%, 91.7%)
+   
  }
 
 .main-header {
     height: 70px;
     cursor: pointer;
-    background: rgb(86.6%, 6.7%, 6.7%;
+    background: rgb(91.7%, 68.7%, 72%);
  }
 
 .header-title{
@@ -25,7 +25,7 @@
 
 .footer-name{
     font-size:20px;
-    color:#ffffff;
+    color:;
     font-family: stencil;
     text-align: center;
     padding: 5px;
@@ -35,7 +35,7 @@
 .footer-history{
     cursor: pointer;
     font-size:15x;
-    color:#ffffff;
+    color:rgb(93.7%, 6.9%, 15.6%);
     font-family: stencil;
     text-align: center;
     margin-bottom:  15px;
@@ -63,10 +63,6 @@
     padding: 1em;
     border: 1pk solid rgb(86.6%, 6.7%, 6.7%);
 }
-
-
-
-
 
 .list-players {
   height:700px;
