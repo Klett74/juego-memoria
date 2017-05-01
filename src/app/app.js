@@ -22,9 +22,9 @@
     var game = {
       name: 'game',
       url: '/game/:idPlayer',
-      params: {
+      /*params: {
         idPlayer: { squash: true, value: null }
-      },
+      },*/
       template: '<view-game></view-game>'
     };
 

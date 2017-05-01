@@ -14,12 +14,12 @@
       vm.allPlayers = cardsFactory.getAllPlayers();
       vm.currentPosition = 'up';
     };
-
+  
     /* Al clicar sobre un elemento de la lista,
-    nos vamos al detalle con el método go de $state */
+    nos vamos al detalle con el método go de $state 
     vm.goToGame = function(_idPlayer_) {
       $state.go('game', {idPlayer: _idPlayer_});
-    };
+    };*/
 
     vm.sortList = function(_position_) {
       if ( _position_ !== vm.currentPosition ) {

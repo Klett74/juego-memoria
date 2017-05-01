@@ -20,7 +20,7 @@
  .main-footer {
     max-height: 100px;
     text-align: center;
-    background:linear-gradient( rgb(35.1%, 33.7%, 33.7%),white);
+    background:linear-gradient( rgb(91.7%, 68.7%, 72%),white);
 }
 
 .footer-name{
@@ -59,13 +59,13 @@
 }
 
 .view-main {
-    height:800px;
+    height:680px;
     padding: 1em;
     border: 1pk solid rgb(86.6%, 6.7%, 6.7%);
 }
 
 .list-players {
-  height:700px;
+  height:680px;
   padding:0.2em;
   border: 1px solid #ff0000;
 }
@@ -80,6 +80,10 @@
     overflow:hidden;
     text-align: center;
     cursor: pointer;
+}
+.about-title{
+    font-weight: bold;
+    font-size:25px;
 }
 
 
@@ -100,4 +104,33 @@
     
 }
 
+.list{
+    background-color:rgb(91.7%, 58.1%, 69.8%);
+    border-radius: 15px;
+    padding-left:25px;
+    margin-left: 20px;
+}
 
+.list-title{
+    text-align:center;
+    color: black;
+    font-weight: bold;
+}  
+  
+.btn-lg{
+    float:right;
+}  
+
+.logo-group{
+    padding-top: 50px;
+    padding-left: 450px;
+    padding-left: 450px;
+    
+    height:500px;
+}
+.main-option-title{
+    text-align:center;
+    font-weight:bold;
+    font-size:35px;
+    color:rgb(50.3%, 31.9%, 38.3%);
+}

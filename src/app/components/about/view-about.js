@@ -9,10 +9,10 @@
   function viewAbout($stateParams) {
     var vm = this;
 
-    vm.$onInit = function() {
+    /*vm.$onInit = function() {
       var idPlayer = $stateParams.idPlayer;
       console.log('El id del player buscado es: ', idPlayer)
-    };
+    };*/
   }
 
 })(angular);

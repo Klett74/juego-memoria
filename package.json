@@ -1,7 +1,7 @@
 {
   "name": "juego-memoria",
   "version": "1.0.0",
-  "description": "Juego de Mamoria del Atleti",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,16 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/Klett74/juego-memoria.git"
   },
-  "author": "Carlos",
+  "author": "Carlos Pérez-Klett",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Klett74/juego-memoria/issues"
   },
-  "homepage": "https://github.com/Klett74/juego-memoria#readme",
-  "dependencies": {
-    "gulp": "^3.9.1"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.1"
-  }
+  "homepage": "https://github.com/Klett74/juego-memoria#readme"
 }

@@ -7,20 +7,20 @@
     var self = module;
 
    module.allplayers = [
-        {id: 0, name: 'Torres', img: 'torres.jpg'},
-        {id: 1, name: 'Godin', img: 'godin.jpg'},
-        {id: 2, name: 'Saul', img: 'saul.jpg'},
-        {id: 3, name: 'Griezzman', img: 'griezzman.jpg'},
-        {id: 4, name: 'Gabi', img: 'gabi.jpg'},
-        {id: 5, name: 'Oblak', img: 'oblak.jpg'},
-        {id: 6, name: 'Carrasco', img: 'carrasco.jpg'},
-        {id: 7, name: 'Torres', img: 'torres.jpg'},
-        {id: 8, name: 'Godin', img: 'godin.jpg'},
-        {id: 9, name: 'Saul', img: 'saul.jpg'},
-        {id: 10, name: 'Griezzman', img: 'griezzman.jpg'},
-        {id: 11, name: 'Gabi', img: 'gabi.jpg'},
-        {id: 12, name: 'Oblak', img: 'oblak.jpg'},
-        {id: 14, name: 'Carrasco', img: 'carrasco.jpg'},
+        {id: 0, name: 'Torres', img: 'torres.jpg', img2:'cartareverso'},
+        {id: 1, name: 'Godin', img: 'godin.jpg', img2:'cartareverso'},
+        {id: 2, name: 'Saul', img: 'saul.jpg', img2:'cartareverso'},
+        {id: 3, name: 'Griezzman', img: 'griezzman.jpg', img2:'cartareverso'},
+        {id: 4, name: 'Gabi', img: 'gabi.jpg', img2:'cartareverso'},
+        {id: 5, name: 'Oblak', img: 'oblak.jpg', img2:'cartareverso'},
+        {id: 6, name: 'Carrasco', img: 'carrasco.jpg', img2:'cartareverso'},
+        {id: 7, name: 'Torres', img: 'torres.jpg', img2:'cartareverso'},
+        {id: 8, name: 'Godin', img: 'godin.jpg', img2:'cartareverso'},
+        {id: 9, name: 'Saul', img: 'saul.jpg', img2:'cartareverso'},
+        {id: 10, name: 'Griezzman', img: 'griezzman.jpg', img2:'cartareverso'},
+        {id: 11, name: 'Gabi', img: 'gabi.jpg', img2:'cartareverso'},
+        {id: 12, name: 'Oblak', img: 'oblak.jpg', img2:'cartareverso'},
+        {id: 13, name: 'Carrasco', img: 'carrasco.jpg', img2:'cartareverso'}
         
     ];
 
