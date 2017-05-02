@@ -142,16 +142,15 @@
 .estadio{
     padding-left:150px;
     padding-top:50px;
-    
     width:1000px;
 }
 
 .list-logos-card{
-    width: 250px;
-    height: 400px;
+    width: 200px;
+    height: 470px;
     display: inline-block;
     text-align: center;
-    margin-left:200px;
+    margin-left:240px;
     padding-top:60px;
     vertical-align: super;
 
