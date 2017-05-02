@@ -25,7 +25,7 @@
 
 .footer-name{
     font-size:20px;
-    color:;
+    color:black;
     font-family: stencil;
     text-align: center;
     padding: 5px;
@@ -108,7 +108,7 @@
     background-color:rgb(91.7%, 58.1%, 69.8%);
     border-radius: 15px;
     padding-left:25px;
-    margin-left: 20px;
+    margin-left: 100px;
 }
 
 .list-title{
@@ -122,15 +122,38 @@
 }  
 
 .logo-group{
-    padding-top: 50px;
-    padding-left: 450px;
-    padding-left: 450px;
+    align-content: center;
     
-    height:500px;
 }
 .main-option-title{
     text-align:center;
     font-weight:bold;
     font-size:35px;
     color:rgb(50.3%, 31.9%, 38.3%);
+}
+
+
+
+}
+.name-form{
+ align-content: left;
+}
+
+.estadio{
+    padding-left:150px;
+    padding-top:50px;
+    
+    width:1000px;
+}
+
+.list-logos-card{
+    width: 250px;
+    height: 400px;
+    display: inline-block;
+    margin: 0.5em;
+    padding:0.2em;
+    overflow:hidden;
+    text-align: center;
+    cursor: pointer;
+
 }

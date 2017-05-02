@@ -8,16 +8,9 @@
 
  function viewMain($state) {
     var vm = this;
-
-   vm.goToGame = function() {
+    vm.goToGame = function() {
       $state.go('game');
-
- 
     };
-
- 
  };
 
 })(angular);
-
- 

@@ -1,13 +1,32 @@
- <div=row>
-   <div col-md-12>
-      <section class="view-main">
-        Nombre: <input type="text-form" class="nombre"></input>
-        Email: <input type="text-form" class="email"></input>
+
+  <div class="row">
+    <div class="col-md-12">
+      <section class="name-form">
+        Nombre: <input type="text" ng-model="name" placeholder="Escribe tu nombre" class="int-name"></input>
+        Email:  <input type="text" ng-model="email" placeholder="Escribe tu email" class="int-mail"></input>
         <br><br>
-
+        </section>  
+    </div>
+  </div>      
+  <div class="row">
+      <div class="col-md-12">
         <p class="main-option-title">Escoge un avatar</p>
+      </div>  
+  </div>
+  <div class="row">
+       <div class="col-md-12">
+          <logos-list ></logos-list>
+       </div>  
+  </div>  
+  <div class="row">
+       <div class="col-md-12">
+       <br>  
+        <button ng-click="viewMain.goToGame()" class="btn-lg btn-primary">Jugar</button>
+       </div>
+  </div>
 
-    <div class="logo-group">
+   
+  <!-- <div class="logo-group">
      
         <input type="radio" name="emotion" id="1" />
         <label for="1"><img src="app/styles/imgs/logo2.png" alt="1915" /></label>  
@@ -20,12 +39,4 @@
         
         <input type="radio" name="emotion" id="3" />
         <label for="3"><img src="app/styles/imgs/logo5.png" alt="1974" /></label>  
-    </div>
-      
-      
-        <br><br>  
-        <button ng-click="viewMain.goToGame()" class="btn-lg btn-primary">Jugar</button>
-      </section>  
-  </div>
-</div>  
-   
+    </div> -->

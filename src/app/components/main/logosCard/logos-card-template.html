@@ -1,8 +1,7 @@
 <div class="list-logos-card">
-    <div class="list-logos-card-title">
-        {{logosCard.itemLogo.name }}
-    </div>
-        <!-- Con la directiva ng-src podemos definir la ruta de las imágenes
-    de forma dinámica -->
+    
+      <input type="radio" name="logo" value="">{{logosCard.itemLogo.name }}
     <img ng-src="app/styles/imgs/{{logosCard.itemLogo.img}}" class="list-logos-card-img">
+    </input>
+    
 </div>
